@@ -1,0 +1,268 @@
+[2017-09-22 12:54:57] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title>[[*pagetitle]]</title>\n	<meta name=\"yandex-verification\" content=\"136c07b87141e0a7\"/> \n	<meta name=\"description\" content=\"[[*description]]\"/>\n	\n    [[$header]]\n    \n    \n    \n    \n    \n    \n    \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 12:54:57] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 12:55:14] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title>[[*pagetitle]]</title>\n	<meta name=\"yandex-verification\" content=\"136c07b87141e0a7\"/> \n	<meta name=\"description\" content=\"[[*description]]\"/>\n	\n   \n    \n    \n    \n    \n    \n    \n    \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 12:55:14] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 12:55:18] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title></title>\n	<meta name=\"yandex-verification\" content=\"136c07b87141e0a7\"/> \n	<meta name=\"description\" content=\"[[*description]]\"/>\n	\n   \n    \n    \n    \n    \n    \n    \n    \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 12:55:18] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 12:55:25] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title></title>\n	<meta name=\"yandex-verification\" content=\"136c07b87141e0a7\"/> \n	<meta name=\"description\" content=\"\"/>\n	\n   \n    \n    \n    \n    \n    \n    \n    \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 12:55:25] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 12:55:51] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title>[[*pagetitle]]</title>\n	<meta name=\"yandex-verification\" content=\"136c07b87141e0a7\"/> \n	<meta name=\"description\" content=\"[[*description]]\"/>\n	\n    [[$header]]\n    \n    \n    \n    \n    \n    \n    \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 12:55:51] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 13:07:05] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title>[[*pagetitle]]</title>\n	<meta name=\"yandex-verification\" content=\"136c07b87141e0a7\"/> \n	<meta name=\"description\" content=\"[[*description]]\"/>\n	\n    [[$header]]\n    \n    \n    \n    \n    \n    \n   [[$footer]] \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 13:07:05] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 13:07:39] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title>[[*pagetitle]]</title>\n	<meta name=\"yandex-verification\" content=\"136c07b87141e0a7\"/> \n	<meta name=\"description\" content=\"[[*description]]\"/>\n	\n    [[$header]]\n    \n    \n    \n    \n    \n    \n   [[$footer]] \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 13:07:39] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 13:15:53] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title>[[*pagetitle]]</title>\n	<meta name=\"yandex-verification\" content=\"136c07b87141e0a7\"/> \n	<meta name=\"description\" content=\"[[*description]]\"/>\n	\n    \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 13:15:53] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 13:16:09] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<meta name=\"yandex-verification\" content=\"136c07b87141e0a7\"/> \n	\n	\n    \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 13:16:09] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 13:16:54] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!doctype html>\n<html lang=\"ru-Ru\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title>[[*pagetitle]]</title>\n	<meta name=\"yandex-verification\" content=\"136c07b87141e0a7\"/> \n	<meta name=\"description\" content=\"[[*description]]\"/>\n	\n    [[$header]]\n    \n    \n    \n    \n    \n    \n   [[$footer]] \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 13:16:54] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 13:17:11] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!doctype html>\n<html lang=\"ru-Ru\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title>[[*pagetitle]]</title>\n	<meta name=\"yandex-verification\" content=\"136c07b87141e0a7\"/> \n	<meta name=\"description\" content=\"[[*description]]\"/>\n	\n    [[$header]]\n    \n    \n    \n    \n    \n    \n   [[$footer]] \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 13:17:11] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 13:18:34] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!doctype html>\n<html lang=\"ru-Ru\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title>[[*pagetitle]]</title>\n	<meta name=\"yandex-verification\" content=\"136c07b87141e0a7\"/> \n	<meta name=\"description\" content=\"[[*description]]\"/>\n	\n    [[$header]]\n    \n    \n    \n    \n    \n    \n   [[$footer]] \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 13:18:34] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 13:20:15] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!doctype html>\n<html lang=\"ru-Ru\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title>[[*pagetitle]]</title>\n	<meta name=\"description\" content=\"[[*description]]\"/>\n	\n    [[$header]]\n    \n    \n    \n    \n    \n    \n   [[$footer]] \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 13:20:15] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 13:20:32] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!doctype html>\n<html lang=\"ru-Ru\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title>[[*pagetitle]]</title>\n	<meta name=\"description\" content=\"[[*description]]\"/>\n	\n    \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 13:20:32] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 13:21:51] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!Doctype html>\n<html lang=\"ru-Ru\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title>[[*pagetitle]]</title>\n	<meta name=\"description\" content=\"[[*description]]\"/>\n	\n    [[$header]]\n    \n    \n    \n    \n    \n    \n   [[$footer]] \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 13:21:51] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 13:22:21] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!Doctype html>\n<html lang=\"ru-Ru\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title>[[*pagetitle]]</title>\n	<meta name=\"description\" content=\"[[*description]]\"/>\n	\n    [[$header]]\n    \n    \n    \n    \n    \n    \n   [[$footer]] \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 13:22:21] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 13:22:31] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!Doctype html>\n<html lang=\"ru-Ru\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title>[[*pagetitle]]</title>\n	<meta name=\"description\" content=\"[[*description]]\"/>\n	\n    [[$header]]\n    \n    \n    \n    \n    \n    \n   [[$footer]] \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 13:22:31] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 13:23:52] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!Doctype html>\n<html lang=\"ru-Ru\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title>[[*pagetitle]]</title>\n	<meta name=\"description\" content=\"[[*description]]\"/>\n	\n    [[$header]]\n    \n    \n    \n    \n    \n    \n   [[$footer]] \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 13:23:52] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 13:24:30] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!Doctype html>\n<html lang=\"ru-Ru\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title>[[*pagetitle]]</title>\n	<meta name=\"description\" content=\"[[*description]]\"/>\n	\n    [[$header]]\n    \n    \n    \n    \n    \n    \n   [[$footer]] \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 13:24:30] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 13:25:58] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон страницы', '', 0, 0, '', 0, '<!Doctype html>\n<html lang=\"ru-Ru\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title>[[*pagetitle]]</title>\n	<meta name=\"description\" content=\"[[*description]]\"/>\n	\n    [[$header]]\n    \n    \n    \n    \n    \n    \n   [[$footer]] \n    \n</head>\n<body>\n    \n</body>\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон страницы' for key 'templatename'
+)
+
+[2017-09-22 13:25:58] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modtemplate.class.php : 72) template_err_createArray
+[2017-09-22 13:26:38] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 811) modTemplateVarTemplate: Attempt to set NOT NULL field rank to NULL
+[2017-09-22 13:26:38] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 811) modTemplateVarTemplate: Attempt to set NOT NULL field rank to NULL
+[2017-09-22 13:26:38] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 811) modTemplateVarTemplate: Attempt to set NOT NULL field rank to NULL
+[2017-09-22 13:26:38] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 811) modTemplateVarTemplate: Attempt to set NOT NULL field rank to NULL
+[2017-09-22 13:26:38] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 811) modTemplateVarTemplate: Attempt to set NOT NULL field rank to NULL
+[2017-09-22 13:26:38] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 811) modTemplateVarTemplate: Attempt to set NOT NULL field rank to NULL
+[2017-09-22 13:26:38] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 811) modTemplateVarTemplate: Attempt to set NOT NULL field rank to NULL
+[2017-09-25 10:40:19] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/model/modx/modcachemanager.class.php : 317) Could not cache resource 6
+[2017-10-08 19:43:00] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 1267
+    [2] => Illegal mix of collations (cp1251_general_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+)
+
+[2017-10-08 19:43:00] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 543) Error HY000 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => HY000
+    [1] => 1267
+    [2] => Illegal mix of collations (cp1251_general_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+)
+
+[2017-10-08 19:46:42] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 1267
+    [2] => Illegal mix of collations (cp1251_general_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+)
+
+[2017-10-08 19:46:42] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 543) Error HY000 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => HY000
+    [1] => 1267
+    [2] => Illegal mix of collations (cp1251_general_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+)
+
+[2017-10-08 19:47:04] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 1267
+    [2] => Illegal mix of collations (cp1251_general_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+)
+
+[2017-10-08 19:47:04] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 543) Error HY000 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => HY000
+    [1] => 1267
+    [2] => Illegal mix of collations (cp1251_general_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+)
+
+[2017-10-08 19:50:42] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 1267
+    [2] => Illegal mix of collations (cp1251_general_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+)
+
+[2017-10-08 19:50:42] (ERROR @ /home/geovlad/domains/geo-vlad.ru/public_html/core/xpdo/om/xpdoobject.class.php : 543) Error HY000 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => HY000
+    [1] => 1267
+    [2] => Illegal mix of collations (cp1251_general_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+)
+

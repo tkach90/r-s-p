@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /test/
+Disallow: /manager/ 
+Disallow: /assets/components/ 
+Disallow: /core/ 
+Disallow: /connectors/ 
+Disallow: /index.php 
+Disallow: /o-nas.php
+Disallow: *?
+Host: r-s-p.ru
+Sitemap: http://r-s-p.ru/sitemap.xml
